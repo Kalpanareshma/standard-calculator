@@ -1,4 +1,4 @@
-# Design of a Standard Calculator
+# EX-08 Design of a Standard Calculator
 
 ## AIM:
 
